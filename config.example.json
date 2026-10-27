@@ -10,7 +10,7 @@
       "id": "living-room",
       "name": "Living room",
       "label": "Living room TV",
-      "ip": "SET_YOUR_TV_IP",
+      "10.0.0.239": "SET_YOUR_TV_IP",
       "adb_port": 5555,
       "mac": "",
       "wake_on_lan": true,
@@ -20,8 +20,7 @@
     }
   ],
   "people": [
-    { "id": "person1", "name": "Person 1" },
-    { "id": "person2", "name": "Person 2" },
+    { "id": "Ashan", "name": "Ashan" },
     { "id": "kids", "name": "Kids", "kid": true }
   ],
   "home": {
@@ -37,9 +36,9 @@
   "weather": {
     "lat": -33.8688,
     "lon": 151.2093,
-    "place": "Sydney",
-    "timezone": "Australia/Sydney"
+    "place": "Toronto",
+    "timezone": "Canada,Toronto"
   },
-  "country": "AU",
+  "country": "CA",
   "screens": []
 }
